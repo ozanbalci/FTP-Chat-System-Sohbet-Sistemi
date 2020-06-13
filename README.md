@@ -7,9 +7,9 @@ FTp üzerinde bağlanarak çalışan bir sohbet sistemidir
 
 Bedava hosting veren bir site bularak orada açacağınız bir ftp sunucusu ile rahatlıkla kullanabillirsiniz ben size alt tarafda bir kaç örnek site vereceğim 
 
--[HostingAll](http://www.uhostall.com) -  bu Site için sahte mail kullanmanızı öneriyorum 
--[000webhost](https://tr.000webhost.com)
--[poyrazhosting](https://www.poyrazhosting.com.tr)
+- [HostingAll](http://www.uhostall.com) -  bu Site için sahte mail kullanmanızı öneriyorum 
+- [000webhost](https://tr.000webhost.com)
+- [poyrazhosting](https://www.poyrazhosting.com.tr)
 
 ```C#
  ftp.Credentials = new NetworkCredential("Ftp Login Name", "Enter Ftp Password"); 
