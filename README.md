@@ -27,3 +27,15 @@ Bedava hosting veren bir site bularak orada açacağınız bir ftp sunucusu ile 
 
 - ftp://vasts_999999@ftp.vastserve.com/htdocs/panel.txt [UhostingAll](http://www.uhostall.com) üzerinde açıldı 
 yani sizin yol uzantınız farklı olabillir 
+
+# hatırlatma 
+- yukarıdaki işlemleri kaynak koda 3 defa yapacaksınız sakın unutmayın 
+
+- Birinci 
+<img src="https://cdn.discordapp.com/attachments/556828295941980170/721353425358684183/unknown.png"/>  
+- İkinci 
+<img src="https://cdn.discordapp.com/attachments/556828295941980170/721353467393867796/unknown.png"/>
+- Üçüncü
+<img src="https://cdn.discordapp.com/attachments/556828295941980170/721353499861844018/unknown.png"/>
+
+- Yukarıda Örnek SS bıraktım 
