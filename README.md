@@ -45,6 +45,8 @@ yani sizin yol uzantınız farklı olabillir
 
 - Yukarıda Örnek SS bıraktım 
 
+- Sonra x86 release yaparak derleme yapınız sonra bütün işlemler biter size iyi sohbetler 
+
 ## ENG 
 It is a chat system that works by connecting on FTp 
 
@@ -89,3 +91,5 @@ so your path extension may be different
 <img src="https://cdn.discordapp.com/attachments/556828295941980170/721353499861844018/unknown.png"/>
 
 - I left Sample SS above
+
+- Then compile with x86 release then all the process ends and you have a good conversation
