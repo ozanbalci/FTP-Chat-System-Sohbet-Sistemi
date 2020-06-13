@@ -2,3 +2,4 @@
 
 # IDE0055: Biçimlendirme Düzeltme
 dotnet_diagnostic.IDE0055.severity = silent
+
