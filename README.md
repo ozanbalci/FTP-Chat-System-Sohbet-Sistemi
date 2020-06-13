@@ -23,5 +23,7 @@ Bedava hosting veren bir site bularak orada açacağınız bir ftp sunucusu ile 
 <img src="https://cdn.discordapp.com/attachments/556828295941980170/721351718591528990/unknown.png"/>
 <img src="https://cdn.discordapp.com/attachments/556828295941980170/721351790523711558/unknown.png"/>
 
+# Örnek URL
+
 - ftp://vasts_999999@ftp.vastserve.com/htdocs/panel.txt [UhostingAll](http://www.uhostall.com) üzerinde açıldı 
 yani sizin yol uzantınız farklı olabillir 
