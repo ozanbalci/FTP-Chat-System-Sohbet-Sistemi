@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29905.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "chat", "chat.csproj", "{0E46BE8D-FC11-4E63-A6DE-C25608093E9E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{0DDC81DF-FACA-42E4-BCC1-E051BEB6BDEF}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0E46BE8D-FC11-4E63-A6DE-C25608093E9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E46BE8D-FC11-4E63-A6DE-C25608093E9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E46BE8D-FC11-4E63-A6DE-C25608093E9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E46BE8D-FC11-4E63-A6DE-C25608093E9E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {70DE6D8F-D140-4DB7-A703-3AE9ECED3C6C}
+	EndGlobalSection
+EndGlobal
