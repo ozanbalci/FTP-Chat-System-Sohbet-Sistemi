@@ -1,6 +1,3 @@
-# Znix-Panel-Neverlose-themed
-Neverlose design is overlaid on the ready panel
-
 # FTP Chat System // Sohbet-Sistemi
 
 ## TR
