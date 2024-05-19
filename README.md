@@ -1,15 +1,98 @@
-![image](https://github.com/ozanbalci/FTP-Chat-System-Sohbet-Sistemi/assets/61565931/1e3c91ab-f12a-49a0-ba64-a1e23d1c987b)![image](https://github.com/ozanbalci/FTP-Chat-System-Sohbet-Sistemi/assets/61565931/a2a7e084-d241-401a-aaa1-cda7f67d8d76)# User Login information
+# Znix-Panel-Neverlose-themed
+Neverlose design is overlaid on the ready panel
 
-username : admin
-password : 31jared31
+# FTP Chat System // Sohbet-Sistemi
 
-# Screenshots
+## TR
+FTp üzerinde bağlanarak çalışan bir sohbet sistemidir 
 
-<img src="https://media.discordapp.net/attachments/1081623965119811624/1241721062664831128/panel-4.png?ex=664b3a5b&is=6649e8db&hm=1c9511defe6d4749db077eb017f6784488d3da6e79ec727370054adf9a2652ef&=&format=webp&quality=lossless&width=1775&height=905"/>  
-<img src="https://media.discordapp.net/attachments/1081623965119811624/1241721063600296007/panel-1.png?ex=664b3a5b&is=6649e8db&hm=283e44bb6e1fc124374018142e1ff50dd3dc07d03a9c4b82fc272adc4596af05&=&format=webp&quality=lossless&width=1782&height=905"/>
-<img src="https://media.discordapp.net/attachments/1081623965119811624/1241721064170717295/pane-2.png?ex=664b3a5b&is=6649e8db&hm=eb5efa55785cbf05b7cbee98b85547baac0e612c9b8c46a9dab5ea1a7f771466&=&format=webp&quality=lossless&width=1782&height=905"/>
-<img src="https://media.discordapp.net/attachments/1081623965119811624/1241721064745205830/panel-3.png?ex=664b3a5b&is=6649e8db&hm=548551e3400c82b40f000a60e2e059a8490e3e35e1b071906eb33fe008f32a1c&=&format=webp&quality=lossless&width=1777&height=905"/>
+# Nasıl Kullanacağız 
 
-# Contact 
+Bedava hosting veren bir site bularak orada açacağınız bir ftp sunucusu ile rahatlıkla kullanabillirsiniz ben size alt tarafda bir kaç örnek site vereceğim 
 
-You can use the github information for my pass if you like
+- [HostingAll](http://www.uhostall.com) - Bu site için sahte mail kullanmanızı öneriyorum 
+- [000webhost](https://tr.000webhost.com) -  Bu site için sahte mail kullanmanızı öneriyorum 
+- [poyrazhosting](https://www.poyrazhosting.com.tr) - Bu site için sahte mail kullanmanızı öneriyorum 
+
+```C#
+ ftp.Credentials = new NetworkCredential("Ftp Login Name", "Enter Ftp Password"); 
+         richTextBox1.Text = ftp.DownloadString("ftp://chatverti.com/panel.txt");
+         
+ ftp.Credentials = new NetworkCredential("örnek1", "şifre123456); 
+          ichTextBox1.Text = ftp.DownloadString("ftp://örnek1.com/panel.txt"); 
+
+```
+<img src="https://cdn.discordapp.com/attachments/556828295941980170/721351662395981895/unknown.png"/>  
+<img src="https://cdn.discordapp.com/attachments/556828295941980170/721351718591528990/unknown.png"/>
+<img src="https://cdn.discordapp.com/attachments/556828295941980170/721351790523711558/unknown.png"/>
+
+# Örnek URL
+
+- ftp://vasts_999999@ftp.vastserve.com/htdocs/panel.txt [UhostingAll](http://www.uhostall.com) üzerinde açıldı 
+yani sizin yol uzantınız farklı olabillir 
+
+# hatırlatma 
+- yukarıdaki işlemleri kaynak koda 3 defa yapacaksınız sakın unutmayın 
+
+- Birinci 
+
+<img src="https://cdn.discordapp.com/attachments/556828295941980170/721353425358684183/unknown.png"/>  
+
+- İkinci 
+
+<img src="https://cdn.discordapp.com/attachments/556828295941980170/721353467393867796/unknown.png"/>
+
+- Üçüncü
+
+<img src="https://cdn.discordapp.com/attachments/556828295941980170/721353499861844018/unknown.png"/>
+
+- Yukarıda Örnek SS bıraktım 
+
+- Sonra x86 release yaparak derleme yapınız sonra bütün işlemler biter size iyi sohbetler 
+
+## ENG 
+It is a chat system that works by connecting on FTp 
+
+# How We Will Use
+
+You can find a site that gives free hosting and use it with an ftp server you will open there and I will give you a few sample sites at the bottom.
+
+- [HostingAll](http://www.uhostall.com) -  I recommend using fake mail for this Site
+- [000webhost](https://tr.000webhost.com)
+- [poyrazhosting](https://www.poyrazhosting.com.tr)
+
+```C#
+ ftp.Credentials = new NetworkCredential("Ftp Login Name", "Enter Ftp Password"); 
+         richTextBox1.Text = ftp.DownloadString("ftp://chatverti.com/panel.txt");
+         
+ ftp.Credentials = new NetworkCredential("örnek1", "şifre123456); 
+          ichTextBox1.Text = ftp.DownloadString("ftp://örnek1.com/panel.txt"); 
+
+```
+<img src="https://cdn.discordapp.com/attachments/556828295941980170/721351662395981895/unknown.png"/>  
+<img src="https://cdn.discordapp.com/attachments/556828295941980170/721351718591528990/unknown.png"/>
+<img src="https://cdn.discordapp.com/attachments/556828295941980170/721351790523711558/unknown.png"/>
+
+# Example URL
+
+- ftp://vasts_999999@ftp.vastserve.com/htdocs/panel.txt [UhostingAll](http://www.uhostall.com) opened on
+so your path extension may be different
+
+# Reminding
+- do not forget that you will do the above operations to the source code 3 times
+
+- First
+
+<img src="https://cdn.discordapp.com/attachments/556828295941980170/721353425358684183/unknown.png"/>  
+
+- Second
+
+<img src="https://cdn.discordapp.com/attachments/556828295941980170/721353467393867796/unknown.png"/>
+
+- Third
+
+<img src="https://cdn.discordapp.com/attachments/556828295941980170/721353499861844018/unknown.png"/>
+
+- I left Sample SS above
+
+- Then compile with x86 release then all the process ends and you have a good conversation
